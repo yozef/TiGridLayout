@@ -12,5 +12,5 @@ Drag files into a /libs folder under Resources:
 `// GridLayout(row, col, padding, objects, spacePercentage)`
 `var grid = require("libs/GridLayout").GridLayout(3,2,5,objArrays,80);`
 
-Demo App Provided.
+Demo App demonstrates a tile layout sample.
 
